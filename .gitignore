@@ -1,0 +1,28 @@
+# Бинарные файлы
+main
+app
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+vendor/
+
+.env
+*.env
+
+.vscode/
+.idea/
+*.swp
+*.lwpc
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Данные Docker
+/data/
